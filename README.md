@@ -16,7 +16,7 @@ in Another terminal
 
 1. npm run serve
 
-# Azure AD setup
-This package is comes with Azure AD integration. So you need to enter your required Azure Client id and tennant id in auth-utils.js file. This file is present in
-
-src/login/auth-utils.js
+# AWS COGNITO setup
+This package is comes with AWS Cognito Setup. So you need to enter your required Cognito userpool id and Appclient id in awsConfigure file. 
+This file is present in
+src/awsConfigure.js
